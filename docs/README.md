@@ -1,4 +1,4 @@
-# Universal RAG System Documentation
+# [WIP] Universal RAG System Documentation
 
 Welcome to the documentation for the Universal RAG System - a hybrid search RAG platform with course and quiz generation capabilities.
 
