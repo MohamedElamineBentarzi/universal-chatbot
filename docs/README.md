@@ -72,4 +72,3 @@ For issues and questions:
 
 ## License
 
-[Your License Here]
